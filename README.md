@@ -1,1 +1,1 @@
-https://torkhau.github.io/youtube-client/
+https://torkhau.github.io/youtubeclient/
